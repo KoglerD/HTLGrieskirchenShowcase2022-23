@@ -40,6 +40,14 @@
     "status": "0"
   },
   {
+    "title": "Hoops",
+    "folder": "Hoops",
+    "author": "David Kogler",
+    "year": "2023_SS",
+    "info": "Basketball local Multiplayer game",
+    "status": "0"
+  },
+  {
     "title": "BreadBoard",
     "folder": "BreadBoard",
     "author": "Tobias Schiffelhumer",
